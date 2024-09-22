@@ -257,36 +257,46 @@ Exemples issus de ma pratique + de mon TFE.
 
 ![](compas.svg){fig-align="center"}
 
-## Objectifs de la formation
-
-* Multiplier les espaces de soin en formant davantage de médecins
-* Cibler les médecins généralistes pour ramener les soins trans en première ligne
-* Modifier la perception, les attitudes et les pratiques des médecins
-
-::: {.notes}
-* Lutter contre le désert médical en formant davantage de médecins pour améliorer la question des délais et des disparités géographiques
-* Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population
-* En outre, constituer les besoins de santé trans-spécifiques comme faisant partie des soins de première ligne favoriserait la déstigmatisation de ce type de soins dans la mesure où cela met à distance une représentation des personnes trans comme un sous-groupe exceptionnel, ayant besoin de soins spécialisés qui ne peuvent être maitrisés que par une poignée d'expert.e.s. 
-
-:::
 
 ### Philosophie de la formation
 
-* Catégorie trans conceptualisée comme catégorie sociale plutôt que biomédicale ou identitaire
+* Catégorie trans conceptualisée comme catégorie sociale plutôt que biomédicale ou uniquement identitaire
 
 ::: {.notes}
-
-:::
-
-::: {.notes}
+Faire le lien avec ce qui précède (enjeux d'autonomie, enjeux de normalisation en ramenant la médecine trans en première ligne)
+Montrer l'apport de nos disciplines respectives (modifier les représentations et attitudes en passant par l'apport socio et épistémo + donner des compétences médicales) 
 
 * Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population
 
 - Qu'est-ce qu'on veut inculquer ? Médical mais aussi attitude, posture, où là c'est majoritairement un apport SHS le travail sur la posture. Faire une formation pour la première ligne pour inculquer que le fait d'être trans c'est ni une catégorie médicale ni une catégorie psy, mais une catégorie sociale et lier ça à des questions d'autonomie.
 	- Comment, par une hybridation disciplinaire, on compte modifier la manière de fonctionner des médecins
 
+* Lutter contre le désert médical en formant davantage de médecins pour améliorer la question des délais et des disparités géographiques
+* Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population
+* En outre, constituer les besoins de santé trans-spécifiques comme faisant partie des soins de première ligne favoriserait la déstigmatisation de ce type de soins dans la mesure où cela met à distance une représentation des personnes trans comme un sous-groupe exceptionnel, ayant besoin de soins spécialisés qui ne peuvent être maitrisés que par une poignée d'expert.e.s. 
+
+
 :::
 
+### Objectifs de la formation
+
+* Multiplier les espaces de soin en formant davantage de médecins
+* Cibler les médecins généralistes pour ramener les soins trans en première ligne
+* Modifier la perception, les attitudes et les pratiques des médecins
+
+::: {.notes}
+
+
+:::
+
+### Contenu de la formation
+
+
+::: {.notes}
+
+:::
+
+## Projet de thèse
 
 	
 	
