@@ -1,0 +1,164 @@
+---
+title: "Titre de la présentation"  
+subtitle: "La santé : du corps au territoire"  
+date: 09-25-2024  
+date-format: "DD/MM/YYYY"  
+author: [Alix Fournier, Maxence Ouafik]  
+editor:  
+  render-on-save: true  
+format:  
+  revealjs:  
+    number-sections: false  
+    incremental: false  
+    slide-level: 3  
+    slide-number: c/t  
+    smaller: true  
+    show-slide-number: all  
+    center-title-slide: true  
+    footer: "Titre de la présentation"  
+    multiplex: true  
+    transition: slide  
+    progress: true  
+    history: false  
+    hide-inactive-cursor: true  
+    execute:  
+      echo: false  
+      warning: false  
+      cache: true  
+    fig-align: center  
+    fig-responsive: false  
+    fig-format: svg  
+    reference-location: margin  
+    bibliography: bibliography.bib  
+    csl: apa.csl  
+    show-notes: false  
+    background-interactive: true  
+    link-external-newwindow: true  
+    theme: custom.scss  
+    title-slide-attributes:  
+      data-background-image: ./background.jpg  
+---
+
+# Préambule
+
+## Présentation personnelle
+
+::: columns
+::: {.column width="50%"}
+**Alix Fournier**
+
+-   Masters en sociologie et en études de genre\
+-   Mémoire sur la construction des parcours de transition médicale des hommes trans dans le paysage de soin belge francophone\
+-   Assistant dans la faculté de Philosophie et Lettres ; éthique et humanités médicales\
+-   Projet de thèse en sociologie sur la négociation autour des parcours de transition médicale entre prestataires de soin et personnes trans
+:::
+
+::: {.column width="50%"}
+**Maxence Ouafik**
+
+-   Médecin généraliste\
+-   TFE sur l’initiation et le suivi du traitement hormonal d’affirmation de genre en médecine générale\
+-   Collaborateur de la Faculté de Médecine de l’ULiège\
+-   Thèse en cours sur les liens entre normes de masculinité, contexte social, santé mentale et santé physique chez les hommes gays et bis
+:::
+:::
+
+::: notes
+-   L’intérêt d’une présentation commune est de pouvoir articuler nos travaux respectifs et communs afin de proposer une réflexion commune sur la santé trans, au croisement de nos disciplines respectives\
+-   Par-delà, cela permet de montrer les apports que chaque discipline a pu apporter à l’autre et comment les pratiques peuvent être modifiées par ce genre de collaboration
+:::
+
+# Des points d’entrée différents mais des constats similaires
+
+## Contexte
+
+-   Réforme de la loi régulant les changements d’état-civil (2018 ; @servicepublicfederaldejustice2017)\
+-   Retrait de l’ICD-11 (International Classification of Diseases)
+-   Une « réforme du traitement de la question trans » [@jaunait2020]
+
+::: notes
+Montrer à quoi ressemble le paysage belge au moment de commencer nos travaux\
+Loi trans : porte sur le changement d’état civil mais a un impact la place du médecin dans les parcours de transition, la relation soignant-patient, l’organisation des soins\
+Plus grande autonomie civile et corporelle des personnes trans
+:::
+
+## Le point d’entrée médical
+
+-   Demandes croissantes de personnes souhaitant initier un traitement hormonal sans passer par l’hôpital\
+-   Volonté de présenter un retour d’expérience pour montrer la faisabilité du suivi et encourager le développement de cette pratique en première ligne
+
+## Le point d’entrée sociologique
+
+-   Comment se déroulent les parcours de transition médicale dans ce contexte en profonde transformation ?
+
+::: notes
+Loi trans et CIM-11 : transformations qui remettent en question l’encadrement médical rigide des parcours de transition et, partant de là, entraînent une diversification des modalités de parcours ainsi que des **disciplines** et **espaces de soin** qui y sont impliqués (Baleige et al., 2023, p. 198).\
+L’intérêt d’adopter une approche matérialiste ?\
+Absence de travaux SHS sur le sujet ?
+:::
+
+## Un désert médical
+
+-   Manque de médecins\
+-   Délais longs et déplacements importants ; voir @fig-map et @fig-duration
+
+::: notes
+Participants de la recherche de mémoire évoquent la difficulté à trouver des médecins.\
+Ils sont également nombreux à réaliser de longs déplacements, notamment vers d’autres villes, pour accéder aux soins. Les délais peuvent également être conséquents.\
+Ces constats se retrouvent également dans la littérature scientifique, belge et internationale.
+:::
+
+------------------------------------------------------------------------
+
+Carte
+
+------------------------------------------------------------------------
+
+Trajets
+
+## La ségrégation des soins
+
+-   Modèle de soin centralisé passant par des équipes multidisciplinaires hospitalo-universitaires reconnues par l’INAMI\
+-   Seulement 2 équipes sur l’ensemble du pays (UZ Gent et CHU de Liège) ➡️ saturation rapide des services [@tsjoen2022]\
+-   Soins organisés comme ultra-spécialisés➡️ exceptionnalisation des parcours et corps trans
+
+::: notes
+Les délais importants, les longs déplacements et le manque de soignants sont à mettre en lien avec le mode d’organisation des soins trans-spécifiques en Belgique.\
+En effet, ceux-ci sont officiellement organisés au sein d’équipes hospitalo-universitaires conventionnées par l’INAMI.\
+Or :
+
+1.  Il n’existe que deux équipes sur l’ensemble du territoire belge, entraînant des disparités géographiques et une saturation rapide de ces services\
+2.  Concevoir les soins trans comme appartenant nécessairement au milieu hospitalo-universitaire plutôt qu’à la première ligne ou même au milieu hospitalier classique contribue à l’exceptionnalisation des parcours de transition et, partant, des corps trans.
+
+Cette organisation entraîne des refus de soin de la part de soignants des deux premières lignes, qui ne se sentent pas compétents et préfèrent référer aux équipes officielles.
+
+Cela s’inscrit d’une vision des parcours de transition comme étant l’apanage de quelques expertꞏeꞏs, le renvoi des personnes trans aux structures spécialisées (re)produit l’exceptionnalité des corps et besoins de santé trans.
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-note icon="false"}
+\[J\]’ai vraiment galéré à trouver une endocrinologue qui veuille bien me prendre. \[…\] Et en fait, j’ai appelé, je pense, sans exagération, une vingtaine d’endocrinologues, et à chaque fois, je précisais pourquoi je venais, et ils m’ont tous refusé \[...\] en disant : « Non, moi je ne fais pas ça ».
+
+\[...\]\[l’hôpital\] a été vraiment violent dans la réponse. \[...\] par mail, on m’a dit : « Non, écoutez, quelqu’un est déjà venu dans votre cas et on lui a dit directement de rentrer chez lui, parce qu’on fait pas ça chez nous ».
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-note icon="false"}
+Elle \[l’endocrinologue\] ma dit : « Ah d’accord, mais vous savez, ça existe les équipes spécialisées ». Elle voulait direct refiler la patate chaude. J’ai dit : « Oui, je sais très bien, mais écoutez, j’habite à Namur, je travaille, je peux pas tout le temps me rendre sur Liège, donc c’était plus simple de vous voir ». « Ah mais parce que moi, vraiment, je ne fais pas ça ». J’ai dû forcer un petit peu le trait parce qu’elle voulait pas me prendre en charge en fait.
+
+Ben franchement, je trouvais ça un peu violent. J’avais l’impression d’avoir genre une maladie rare où on pouvait juste me référer à un centre qui connaissait. »
+:::
+
+# Contexte socio-historique de l'organisation des soins trans
+
+## La clinique trans
+
+* Batailles épistémiques entre arènes disciplinaires
+
+::: notes
+L'histoire de la médecine des t
+:::
+
+# Bibliographie
