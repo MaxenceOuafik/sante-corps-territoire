@@ -171,7 +171,7 @@ Ben franchement, je trouvais ça un peu violent. J’avais l’impression d’av
 :::
 
 ::: {.column}
-![Le carré de White](.white.jpg){#fig-white}
+![Le carré de White](./white.jpg){#fig-white}
 :::
 
 ::::
@@ -256,7 +256,7 @@ Exemples issus de ma pratique + de mon TFE.
 *Seul·e·s 12% des patient·e·s envisageaient une hystérectomie, des chiffres comparables aux 83,6% de répondant·e·s de l’IEFH qui déclaraient que l’hystérectomie n’était pas importante pour leur sentiment d’identité de genre*
 :::
 
-## Que retenir ? des demandes.
+## Que retenir ?
 
 * L'offre médicale actuelle ne correspond pas à la demande, tant dans sa quantité que dans sa qualité
 * Plus qu'un simple manque de médecins formés, il existe un contexte socio-historique dont l'héritage continue à se faire ressentir, tant dans l'organisation des soins que dans les représentations et pratiques médicales
@@ -270,73 +270,27 @@ Ces différents constats existent dans la littérature, nationale et internation
 
 ## Projets en cours
 
-1. Formation à destination des médecins généralistes
-2. Projet de thèse sur la médecine des transitions de genre
-
-
-
-## La formation Comp·a·s
-**Comp**étences **a**vancées en **s**anté trans
-
-![](compas.svg){fig-align="center"}
-
-::: {.notes}
-Dans un premier temps, on va parler d'un cas où ces constats débouchent sur des prolongements en termes d'enseignement et de formation.
-:::
-
-### Philosophie de la formation
-
-* Catégorie trans conceptualisée comme catégorie sociale plutôt que biomédicale ou uniquement identitaire
-
-::: {.notes}
-
-Faire le lien avec ce qui précède (enjeux d'autonomie, enjeux de normalisation en ramenant la médecine trans en première ligne)
-Montrer l'apport de nos disciplines respectives (modifier les représentations et attitudes en passant par l'apport socio et épistémo + donner des compétences médicales) 
-
-* Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population
-
-- Qu'est-ce qu'on veut inculquer ? Médical mais aussi attitude, posture, où là c'est majoritairement un apport SHS le travail sur la posture. Faire une formation pour la première ligne pour inculquer que le fait d'être trans c'est ni une catégorie médicale ni une catégorie psy, mais une catégorie sociale et lier ça à des questions d'autonomie.
-	- Comment, par une hybridation disciplinaire, on compte modifier la manière de fonctionner des médecins
-
-* Lutter contre le désert médical en formant davantage de médecins pour améliorer la question des délais et des disparités géographiques
-* Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population
-* En outre, constituer les besoins de santé trans-spécifiques comme faisant partie des soins de première ligne favoriserait la déstigmatisation de ce type de soins dans la mesure où cela met à distance une représentation des personnes trans comme un sous-groupe exceptionnel, ayant besoin de soins spécialisés qui ne peuvent être maitrisés que par une poignée d'expert.e.s. 
-
-
-:::
-
-### Objectifs de la formation
-
-* Multiplier les espaces de soin en formant davantage de médecins
-* Cibler les médecins généralistes pour ramener les soins trans en première ligne
-* Modifier la perception, les attitudes et les pratiques des médecins
-
-::: {.notes}
-
-
-:::
-
-### Contenu de la formation
-
-
-::: {.notes}
-
-:::
+1. Projet de thèse sur la médecine des transitions de genre
+2. Formation à destination des médecins généralistes
 
 ## Projet de thèse
 ### Point de départ
+
+* Une relation de soin atypique
 
 * Un dispositif médical historique sous tension
 
 * Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués
 
 * La médecine trans comme terrain incertain
+
 * Dans ce contexte en transformation, comment se déroulent les négociations autour des parcours de transition entre prestataires de soin et personnes trans ?
 
 ::: {.notes}
+Un projet de thèse qui s'inscrit dans les constats posés à la fois dans la littérature mais aussi dans la recherche de mémoire. Importance d'une recherche belge car pas de littérature SHS dans ce contexte national alors qu'on est dans un contexte en évolution rapide. En quoi est-ce que la thèse va plus loin que le mémoire de master ?
+
 La tension entre le rôle historique d’évaluateur et de gardien assigné aux médecins et la récente place laissée à l’autonomie dans la construction des parcours constitue le travail en médecine trans comme un terrain incertain.
 :::
-
 
 
 ### Étudier la transition médicale...
@@ -350,6 +304,13 @@ La tension entre le rôle historique d’évaluateur et de gardien assigné aux 
 -> Répondre à une double absence dans la littérature
 
 ::: {.notes}
+Relation de soin : fait intervenir plusieurs personnes, d'où le fait d'intégrer dans la recherche ces deux populations (médecin/patient).
+Et justement : proximité au terrain, 
+
+Apport des sciences médicales : en étant moins extérieur au monde médical, cela a permis de mieux percevoir l'hétérogénéité des soignants et de se rendre compte de l'importance de la première ligne. Avoir une meilleure connaissance du terrain, des difficultés matérielles et des réalités organisationnelles. Comprendre que selon la structure et la spécialité, il peut y avoir des différences importantes.
+
+Intérêt d'aller dans =/ infrastructures, interroger =/ professions -> c'est absent de la littérature de SHS.
+
 Processus d'interaction et négociation :
 Depuis une perspective interactionniste, j'envisage la transition médicale comme un processus qui fait l'objet de négociation entre prestataires de soin et personnes trans. Si l'on a beaucoup évoqué la manière dont la médecine a participé à façonner les parcours trans, la population trans n'est pas passive dans la construction de ceux-ci. Des travaux de sociologie de la santé, et notamment sur la santé trans, montrent que les parcours sont négociés, selon une pluralité de logique et de répertoires d'action. Dans mon mémoire, j'ai constaté que si les personnes trans ont une diversité de manières de se confronter, de composer, de transformer les institutions médicales, les pratiques, protocoles, normes médicales sont également diversifiés. 
 
@@ -358,20 +319,69 @@ Et, pour accéder à un tableau plus complet de la manière dont se construisent
 Ce projet aspire à combler ce deuxième manque dans la littérature par une approche inédite qui envisage simultanément les expériences des personnes trans et celles des soignant·es au sein de différentes infrastructures de soin, dont certaines ont émergé récemment dans le paysage de soin belge francophone et n'ont encore jamais été étudiées.
 
 DONC : la transition médicale est étudiée comme un processus interactif, au sein duquel la profession médicale peut adopter une pluralité de rôles et de dispositions et, d’autre part, comme processus au sein duquel les patients peuvent participer activement à ce processus, selon des logiques également hétérogènes.
+:::
+
+## Méthodo
+
+* Un terrain en FWB
+
+* Une triangulation méthodologique : des entretiens semi-structurés avec des prestataires de soin et des personnes ayant initié un parcours de transition ; des observations dans différents espaces de soin ; observation de conférences scientifiques ; analyse d'un corpus de documents
+
+* 
+
+::: {.notes}
+Quelles méthodo envisagées : tout sauf dossiers mdr
 
 
-### 3 axes principaux
-	
-* Le contexte épistémique des prestataires de soin
+## La formation Comp·a·s
+**Comp**étences **a**vancées en **s**anté trans
 
-* Les parcours de transition médicale
+![](compas.svg){fig-align="center"}
 
-* Les pratiques de soin
+::: {.notes}
+Dans un premier temps, on va parler d'un cas où ces constats débouchent sur des prolongements en termes d'enseignement et de formation.
+:::
+
+### Philosophie de la formation
+
+* Ne pas inculquer des règles strictes mais donner des clés de compréhension 
+* Nécessité d'une approche transdisciplinaire
+* Place centrale de l'autonomie
 
 
 ::: {.notes}
 
+**Maxence :**
+D'expérience, les médecins se posent souvent la question de quelle latitude ils ont dans la transition médicale. Notamment, s'ils sont tenus de passer par un avis psy avant d'initier un traitement. 
 
-:::	
+**Alix :**
+Plus que de donner des règles strictes, la philosophie de cette formation est de faire réfléchir les médecins à leur rôle en tant que soignant dans cette relation thérapeutique atypique. L'objectif est ici de développer une posture réflexive chez les soignants autour de leurs pratiques pour leur apprendre à fonctionner dans un contexte incertain.
+
+En effet, l'incertitude en santé trans tend à paralyser davantage les médecins que lorsqu'elle est présente dans d'autres aspects de la médecine. Cela peut être mis en lien avec le contexte changeant et le manque de familiarité aux vécus trans, couplé à une relative absence de la santé trans dans les cursus universitaires. C'est en créant cette familiarité et en éclairant ce contexte que l'on peut espérer permettre aux médecins de mieux cohabiter avec leur incertitude.
+
+**Maxence :**
+Créer cette familarité nécessite de ne pas se contenter du biomédical seul ; cela implique une transdisciplinarité dans l'élaboration de la formation ainsi que la participation de  personnes trans dans les différents modules.
+
+Enfin, au vu de l'enjeu majeur qu'a été et continue d'être l'autonomie corporelle des personnes trans, la formation mettra l'accent sur cette valeur. 
+:::
+
+### Objectifs de la formation
+
+* Multiplier les espaces de soin en formant davantage de médecins
+* Cibler les médecins généralistes pour ramener les soins trans en première ligne
+* Modifier la perception, les attitudes et les pratiques des médecins ; développer une éthique de soin trans-affirmative
+
+::: {.notes}
+
+* Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population. Normalisation des parcours de transition en modifiant le contexte dans lequel ces soins sont prodigués. Constituer les besoins de santé trans-spécifiques comme faisant partie des soins de première ligne favoriserait la déstigmatisation de ce type de soins dans la mesure où cela met à distance une représentation des personnes trans comme un sous-groupe exceptionnel, ayant besoin de soins spécialisés qui ne peuvent être maitrisés que par une poignée d'expert.e.s. 
+
+* Qu'est-ce qu'on veut inculquer ? Médical mais aussi attitude, posture, où là c'est majoritairement un apport SHS le travail sur la posture. Faire une formation pour la première ligne pour inculquer que le fait d'être trans c'est ni une catégorie médicale ni une catégorie psy, mais une catégorie sociale et lier ça à des questions d'autonomie.
+
+:::
+
+### Contenu de la formation
+
+![Structure de la formation](./modules.png){#fig-modules}
+
 
 # Bibliographie
