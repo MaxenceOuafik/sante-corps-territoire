@@ -238,21 +238,17 @@ Des cliniques de genre voient le jour, organisées selon le triptyque disciplina
 * Parcours-type ne correspondant pas aux réalités des personnes trans
 
 ::: {.notes}
-Dans ce dispositif, les personnes trans se constituent comme peu fiables, et les médecins se voient assigner le rôle de filtrer leurs demandes, cela passant par la soumission à une batterie de tests et d'enquête sur leurs vies personnelles.
+Dans ce dispositif, les personnes trans sont perçues comme peu fiables, et les médecins se voient assigner le rôle de filtrer leurs demandes, cela passant par la soumission à une batterie de tests et d'enquête sur leurs vies personnelles.
 
-Pour se montrer crédibles, les patients devaient répondre à une série d'attentes normatives : une  conformité aux rôles de genre traditionnels (par ex la profession), à des normes de genre corporelles, et s'inscrire dans des normes de sexualité.
+Notons que ces exigences médicales sont étroitement entrelacées avec des normes sociales, plus spécifiquement de genre et de sexualité. Pour prouver leur crédibilité, les personnes trans devaient montrer une  conformité aux rôles de genre traditionnels (par ex la profession) ainsi qu'à certaines normes corporelles et montrer un désir hétérosexuel.
 
 Pour les femmes trans, cela impliquait une l'adoption d'une hyper-fémininité, de trouver un mari et s’occuper du foyer, tandis que les hommes trans qui doivent trouver un travail stable et soutenir leur femme.
 
-Les attentes de l’établissement médical esquissait une trajectoire trans typique :
-
-Le diagnostic se fonde sur des critères stricts : le sentiment d'identification à l'autre sexe doit remonter à l'enfance, il doit y avoir un sentiment de dégout pour le corps, l'envie de s'habiller avec les habits et de jouer avec les jouets du genre “opposé”. Toute déviation du narratif était accueillie avec suspicion.
-
-Le diagnostic mène à la réalisation de l’ensemble des interventions médicales visant à conformer les corps aux normes du sexe souhaité.
+Les attentes de l’établissement médical esquissait une trajectoire trans typique : premièrement, l'obtention d'un diagnostic, fondé sur des critères d'évaluation empreints de normes de genre et de sexualité, qui mènent ensuite à la réalisation de l’ensemble des interventions médicales visant à conformer les corps aux normes du sexe souhaité.
 
 Cela était renforcé par le champ juridique qui a pu conditionner le changement d’état civil à l’ablation des organes reproducteurs dans une logique d’irréversibilité du changement de sexe comme c’était le cas en Belgique jusqu’en 2017.
 
-Ce modèle de prise en charge qui a émergé de la clinique trans de la deuxième moitié du 20e siècle laisse des traces dans les représentations autour des personnes trans, de ce que constitue une prise en charge adaptée et dans l'organisation des soin. 
+Ce modèle de prise en charge qui a émergé de la clinique trans de la deuxième moitié du 20e siècle laisse des traces dans les représentations médicales, dans les pratiques de soin et dans l'organisation des soin. 
 
 **Inadéquation du parcours et des réalités** 
 Exemples issus de ma pratique + de mon TFE. 
@@ -267,24 +263,32 @@ Exemples issus de ma pratique + de mon TFE.
 * Toute velléité de changement nécessite donc de prendre en compte ce contexte et son impact sur les représentations, attitudes et pratiques
 
 # Que faire de ces constats ?
+
+::: {.notes}
+Ces différents constats existent dans la littérature, nationale et internationale, ainsi que dans nos propres travaux, expériences, observations. Que faire de ces constats ?
+:::
+
 ## Projets en cours
 
 1. Formation à destination des médecins généralistes
 2. Projet de thèse sur la médecine des transitions de genre
+
+
 
 ## La formation Comp·a·s
 **Comp**étences **a**vancées en **s**anté trans
 
 ![](compas.svg){fig-align="center"}
 
+::: {.notes}
+Dans un premier temps, on va parler d'un cas où ces constats débouchent sur des prolongements en termes d'enseignement et de formation.
+:::
 
 ### Philosophie de la formation
 
 * Catégorie trans conceptualisée comme catégorie sociale plutôt que biomédicale ou uniquement identitaire
 
 ::: {.notes}
-Ces différents constats existent dans la littérature, nationale et internationale, ainsi que dans nos propres travaux, expériences, observations. Que faire de ces constats ? Dans un premier temps, on va parler d'un cas où ces constats débouchent sur des prolongements en termes d'enseignement et de formation. Dans un second temps, on va parler d'un projet de recherche s'inscrivant dans la continuité de ces constats.
-
 
 Faire le lien avec ce qui précède (enjeux d'autonomie, enjeux de normalisation en ramenant la médecine trans en première ligne)
 Montrer l'apport de nos disciplines respectives (modifier les représentations et attitudes en passant par l'apport socio et épistémo + donner des compétences médicales) 
@@ -320,28 +324,41 @@ Montrer l'apport de nos disciplines respectives (modifier les représentations e
 :::
 
 ## Projet de thèse
-### 
+### Point de départ
 
-* Dispositif médical d'encadrement des parcours issu de la clinique trans du 20ème siècle sous tension
+* Un dispositif médical historique sous tension
 
 * Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués
 
 * La médecine trans comme terrain incertain
+* Dans ce contexte en transformation, comment se déroulent les négociations autour des parcours de transition entre prestataires de soin et personnes trans ?
+
+::: {.notes}
+La tension entre le rôle historique d’évaluateur et de gardien assigné aux médecins et la récente place laissée à l’autonomie dans la construction des parcours constitue le travail en médecine trans comme un terrain incertain.
+:::
+
 
 
 ### Étudier la transition médicale...
 
-* Comme un processus d'interaction et de négociation
+* ... comme un processus d'interaction et de négociation...
 
-* Par analyse double qui s’intéresse (1) aux personnes réalisant un parcours de transition médicale et (2) aux professionnel·les de santé qui y sont impliqué·es
+* ... par analyse double qui s’intéresse (1) aux personnes réalisant un parcours de transition médicale et (2) aux professionnel·les de santé qui y sont impliqué·es...
 
-* Au sein de différentes infrastructures médicales
+* ...au sein de différentes infrastructures médicales.
 
 -> Répondre à une double absence dans la littérature
 
 ::: {.notes}
-Attention à mettre en avant l'hétérogénéité des deux groupes ! Importance d'apporter de la nuance.
-prolonger le travail de mémoire qui envisageait la population transmasc comme un groupe profondément hétérogène. Poursuivre ça pour étudier le groupe des professionnels de santé qui est relativement absent de la litérature en SHS. Absence d'autant plus forte de travaux qui intègrent ces deux populations. Absence de travaux qui problématique les parcours et pratiques de soin au sein de différentes infrastructures médicales.
+Processus d'interaction et négociation :
+Depuis une perspective interactionniste, j'envisage la transition médicale comme un processus qui fait l'objet de négociation entre prestataires de soin et personnes trans. Si l'on a beaucoup évoqué la manière dont la médecine a participé à façonner les parcours trans, la population trans n'est pas passive dans la construction de ceux-ci. Des travaux de sociologie de la santé, et notamment sur la santé trans, montrent que les parcours sont négociés, selon une pluralité de logique et de répertoires d'action. Dans mon mémoire, j'ai constaté que si les personnes trans ont une diversité de manières de se confronter, de composer, de transformer les institutions médicales, les pratiques, protocoles, normes médicales sont également diversifiés. 
+
+Et, pour accéder à un tableau plus complet de la manière dont se construisent les parcours, il a semblé important d'intégrer à la recherche prestataires de soin. Toutefois, il existe une absence de travaux qui opérationnalisent cela. De plus, l'hétérogénéité de pratique est insuffisament problématisée selon les cadres disciplinaires, les lieux de soin et les caractéristiques sociodémographiques des professionnels.
+
+Ce projet aspire à combler ce deuxième manque dans la littérature par une approche inédite qui envisage simultanément les expériences des personnes trans et celles des soignant·es au sein de différentes infrastructures de soin, dont certaines ont émergé récemment dans le paysage de soin belge francophone et n'ont encore jamais été étudiées.
+
+DONC : la transition médicale est étudiée comme un processus interactif, au sein duquel la profession médicale peut adopter une pluralité de rôles et de dispositions et, d’autre part, comme processus au sein duquel les patients peuvent participer activement à ce processus, selon des logiques également hétérogènes.
+
 
 ### 3 axes principaux
 	
