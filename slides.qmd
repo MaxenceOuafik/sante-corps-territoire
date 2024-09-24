@@ -85,10 +85,14 @@ format:
 
 ::: {.notes}
 **Maxence**
-Montrer à quoi ressemble le paysage belge au moment de commencer nos travaux\
-Attention à déjà montrer l'encadrement médical autour des parcours trans - diagnostic - sinon la suite de la présentation est moins compréhensible.
-Loi trans : porte sur le changement d’état civil mais a un impact la place du médecin dans les parcours de transition, la relation soignant-patient, l’organisation des soins\
-Ces changements - ICD-11, loi trans - marquent des étapes importantes vers une plus grande autonomie des personnes trans dans la gestion de leur parcours, vers une plus grande autonomie civile et corporelle qui se manifeste dans le champ de la santé notamment.
+
+* Avant de présenter les travaux, il est important d'esquisser le contexte dans lequel ils se sont inscrits
+* Nombreuses mutations ces dernières années ; sera dévelopé au fil de la présentation
+* Loi trans : remplace la loi de 2007 qui demandait diagnostic psy + avis endoc + chirurgie génitale + stérilisation
+* Dans le même temps, dépathologisation via retrait de l'ICD-11
+
+➡️ changements menant à une plus grande autonomie civile et corporelle qui se manifestera également dans le champ de la santé
+
 
 **Alix**
 
@@ -108,11 +112,10 @@ Cette tension, ce conflit d'expertise, s'articule autour d'une question centrale
 -   Volonté de présenter un retour d’expérience pour montrer la faisabilité du suivi et encourager le développement de cette pratique en première ligne
 
 ::: {.notes}
-Porte d'entrée : 1 ou 2 patients (qui étaient des connaissances), puis énorme patientèle qui montre le pb d'accès au soin
-BCP de demandes et **se sentir en capacité de les accepter**
-Dire qu'en tant que MG, si on fonctionnait toujours dans un cadre rigide avec diag psychiatrique, notamment renforcé par le droit, tu n'aurais pas mis les pieds là-dedans
-Importance du contexte pour comprendre ça.
-TFE : 1/2 patientèle qui ont changé prénom et 1/3 état civil. Cela n'aurait pas été possible au préalable.
+* A l'origine : 2 connaissances issues de l'associatif
+* Rapidement débordé par les demandes, ce qui m'a fait réaliser le manque d'offre de soin et m'a motivé à partager un retour d'expérience pour inciter les médecins à se former 
+* Les modifications législatives ont eu leur importance car difficile de se sentir légitime à entamer ces soins en tant que MG si la loi estime qu'il faut tout une batterie d'avis et d'interventions pour légitimer la demande de transition 
+* 1/2 patientèle qui ont changé prénom et 1/3 état civil. Cela n'aurait pas été possible au préalable.
 :::
 ## Le point d’entrée sociologique
 
@@ -220,7 +223,10 @@ D'où vient l'idée qu'il faut une prise en charge interdisciplinaire au sein de
 2. La médecine s'est constituée comme une institution de contrôle des corps et population trans, dans un enchevêtrement entre normes sociales et médicales.
 
 ::: {.notes}
-C'est là que les SHS sont intéressantes, pour situer historiquement ce modèle d'organisation des soins. Travaux de sociologie (socio médecine, socio santé) qui ont mis en avant deux éléments centraux que nous allons développer : 1/ l'histoire de la médecine des transitions de genre est une histoire de multiples négociations 2/ la médecine s'est constituée comme une institution de contrôle des corps et population trans, dans un enchevêtrement entre normes sociales et médicales.
+C'est là que les SHS sont intéressantes, pour situer historiquement ce modèle d'organisation des soins. Travaux de sociologie (socio médecine, socio santé) qui ont mis en avant deux éléments centraux que nous allons développer : 
+
+1. l'histoire de la médecine des transitions de genre est une histoire de multiples négociations 
+2. la médecine s'est constituée comme une institution de contrôle des corps et population trans, dans un enchevêtrement entre normes sociales et médicales.
 :::
 
 ## Une histoire de négociations multiples
@@ -442,13 +448,15 @@ Enfin, au vu de l'enjeu majeur qu'a été et continue d'être l'autonomie corpor
 
 * Médecine générale : approche globale ; ne pas séparer soins trans du reste de la médecine / personnes trans du reste de la population. Normalisation des parcours de transition en modifiant le contexte dans lequel ces soins sont prodigués. Constituer les besoins de santé trans-spécifiques comme faisant partie des soins de première ligne favoriserait la déstigmatisation de ce type de soins dans la mesure où cela met à distance une représentation des personnes trans comme un sous-groupe exceptionnel, ayant besoin de soins spécialisés qui ne peuvent être maitrisés que par une poignée d'expert.e.s. 
 
-* Qu'est-ce qu'on veut inculquer ? Médical mais aussi attitude, posture, où là c'est majoritairement un apport SHS le travail sur la posture. Faire une formation pour la première ligne pour inculquer que le fait d'être trans c'est ni une catégorie médicale ni une catégorie psy, mais une catégorie sociale et lier ça à des questions d'autonomie.
-
+* Qu'est-ce qu'on veut inculquer ? Médical mais aussi attitude, posture, où là c'est majoritairement un apport SHS le travail sur la posture, notamment en recontextualisant, comme on l'a brièvement fait ici l'origine et les enjeux de la médecine trans.
 :::
 
 ### Contenu de la formation
 
 ![Structure de la formation](./modules.png){#fig-modules}
 
+::: {.notes}
+Rappeler que chaque module contiendra à la fois des informations médicales et SHS et une participation de personnes trans, pas juste le premier module, en vue de ne pas recréer une dichotomie entre les disciplines ou entre l'expertise des personnes trans et celle des médecins
+:::
 
 # Bibliographie
