@@ -461,7 +461,10 @@ Enfin, au vu de l'enjeu majeur qu'a été et continue d'être l'autonomie corpor
 ![Structure de la formation](./modules.png){#fig-modules}
 
 ::: {.notes}
-Rappeler que chaque module contiendra à la fois des informations médicales et SHS et une participation de personnes trans, pas juste le premier module, en vue de ne pas recréer une dichotomie entre les disciplines ou entre l'expertise des personnes trans et celle des médecins
+
+Chacun de ces modules contiendra à la fois un contenu biomédical ainsi qu'un contenu issu des sciences humaines et sociales. 
+L'objectif est ici de ne pas recréer la dichotomie entre les disciplines. 
+Dans la même logique, des personnes trans interviendront tout au long des modules, afin que leur expertise soit reconnue et valorisée par les apprenants. 
 :::
 
 # Bibliographie
