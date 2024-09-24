@@ -80,7 +80,7 @@ format:
 -   Réforme de la loi régulant les changements d’état-civil (2018 ; @servicepublicfederaldejustice2017)\
 -   Retrait de l’ICD-11 (International Classification of Diseases) en 2019
 -   Une « réforme du traitement de la question trans » [@jaunait2020] : d'une catégorie médicale à une catégorie sociale
--   Tension entre auto- et hétéro-définition du sujet 
+-   Tension entre auto- et hétéro-définition du sujet [@jaunait2020]
 
 
 ::: {.notes}
@@ -146,7 +146,7 @@ Trajets
 
 -   Modèle de soin centralisé passant par des équipes multidisciplinaires hospitalo-universitaires reconnues par l’INAMI\
 -   Seulement 2 équipes sur l’ensemble du pays (UZ Gent et CHU de Liège) ➡️ saturation rapide des services [@tsjoen2022]\
--   Soins organisés comme ultra-spécialisés➡️ exceptionnalisation des parcours et corps trans
+-   Soins organisés comme ultra-spécialisés ➡️ exceptionnalisation des parcours et corps trans
 
 ::: {.notes}
 **Maxence**
@@ -211,13 +211,13 @@ Expliquer carré de white.
 D'où vient l'idée qu'il faut une prise en charge interdisciplinaire au sein de centres spécialisés ? Cette organisation n'est pas le fruit du hasard mais peut être située historiquement. 
 :::
 
-## Apports de la sociologie de la médecine et de la sociologie des sciences
+## Apports des sciences humaines et sociales
 
 1. L'histoire de la médecine des transitions de genre est une histoire de multiples négociations 
 2. La médecine s'est constituée comme une institution de contrôle des corps et population trans, dans un enchevêtrement entre normes sociales et médicales.
 
 ::: {.notes}
-C'est là que les SHS sont intéressantes, pour situer historiquement ce modèle d'organisation des soins. Travaux qui de socio de la médecine sur la santé trans qui ont mis en avant deux éléments centraux que nous allons développer : 1/ l'histoire de la médecine des transitions de genre est une histoire de multiples négociations 2/ la médecine s'est constituée comme une institution de contrôle des corps et population trans, dans un enchevêtrement entre normes sociales et médicales.
+C'est là que les SHS sont intéressantes, pour situer historiquement ce modèle d'organisation des soins. Travaux de sociologie (socio médecine, socio santé) qui ont mis en avant deux éléments centraux que nous allons développer : 1/ l'histoire de la médecine des transitions de genre est une histoire de multiples négociations 2/ la médecine s'est constituée comme une institution de contrôle des corps et population trans, dans un enchevêtrement entre normes sociales et médicales.
 :::
 
 ## Une histoire de négociations multiples
@@ -314,26 +314,24 @@ Ces différents constats existent dans la littérature, nationale et internation
 ## Projet de thèse
 ### Point de départ
 
-* Une relation de soin atypique 
+* Une relation de soin atypique [@ashley2022; @clochec2023b]
 
-* Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués
+* Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; [@ashley2022; @bienaime2018; @clochec2023b]  ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués [@baleige2023]
 
-* La médecine trans comme terrain incertain
+* La médecine trans comme terrain incertain [@shuster2021]
 
-* Dans ce contexte en transformation, comment se déroulent les négociations autour des parcours de transition entre prestataires de soin et personnes trans ?
+* *Dans ce contexte en profonde transformation, comment les négociations patient·es-soignant·es autour des parcours de transition se déroulent-elles ?*
 
 ::: {.notes}
-Dans la médecine des transitions de genre, la relation de soin n'est pas une relation de soin clasique, dans laquelle les médecins savent et les patient·es suivent. On peut faire un parallèle avec les questions de contraception et d'avortement, où les rôles habituels sont renversés : les patient·es disent savoir de quoi ils et elles ont besoin, et espèrent que les médecins suivront.
+Comme on a pu le voir, la médecine des transitions de genre connait de profondes transformations, liées au délitement de l'encadrement médical rigide des parcours de transition.
 
-On a pu voir que le cadre historique d'encadrement médical des parcours trans connait des bouleversements, liés à une réforme du traitement de la question trans. Comme on a pu le voir, et comme je le constate dans mon premier mémoire, ces changements épistémiques viennent ébranler les espaces, savoirs, disciplines, protocoles, normes et représentations de ce cadre historique de prise en charge médicale.
+Cela participe à la reconfiguration de la relation patient-médecin comme une relation de soin atypique où les médecins accompagnent plus qu’ils ne soignent. Comme dans le cas de l'avortement et de la contraception, les rôles habituels sont bouleversés : les patient·es disent savoir de quoi ils et elles ont besoin, et espèrent que les médecins suivront.
 
- dont le délitement participe à l’émergence d’un régime d’incertitude en médecine trans (Shuster, 2021).
+Ce délitement de la tutelle médicale se traduit également par une diversification des modalités de parcours, qui ne suivent plus la trajectoire-type formalisée par les protocoles médicaux mais aussi des disciplines impliquées dans ces parcours, comme on a pu le voir avec le cas de la médecine générale, ainsi que des espaces dans lesquels ces parcours prennent place, qui tendent à sortir des équipes spécialisées. Il s'agit de constats posés depuis ma recherche de mémoire.
 
-Comme nous 
+Ces différentes transformations participent à l'émergence d'un régime d'incertitude dans la médecine des transitions de genre. On peut notamment souligner la tension existante entre le rôle historique d’évaluateur et de gardien assigné aux médecins et la récente place laissée à l’autonomie dans la construction des parcours, qui constitue le travail en médecine trans comme un terrain incertain.
 
-Or, cette mutation de contexte transforme la relation de soin. **Relation de soin atypique**.
-
-La tension entre le rôle historique d’évaluateur et de gardien assigné aux médecins et la récente place laissée à l’autonomie dans la construction des parcours constitue le travail en médecine trans comme un terrain incertain.
+Alors que de nombreuses transformations traversent la médecine des transitions de genre, comment les négociations patient·es-soignant·es autour des parcours de transition se déroulent-elles ?
 :::
 
 
@@ -348,36 +346,50 @@ La tension entre le rôle historique d’évaluateur et de gardien assigné aux 
 ➡️ Répondre à une double absence dans la littérature
 
 ::: {.notes}
-Relation de soin : fait intervenir plusieurs personnes, d'où le fait d'intégrer dans la recherche ces deux populations (médecin/patient). A fortiori dans une relation de soin atypique.
+La littérature de SHS sur la transition médicale envisage plus communément les expériences des personnes ou, dans une de moindre mesure, celles des prestataires de soin. Or, une relation de soin fait intervenir plusieurs personnes. Il y a un intérêt fort à intégrer dans la recherche ces deux populations (médecin/patient). Je m'en suis rendu compte lors de ma première recherche de mémoire.
 
+Ce précédent travail a permi de rendre compte de manière nuancée de l'hétérogénéité des parcours, mais aussi des multiples manières de les construire, selon des logiques et répertoires d'actions très diversifiés au sein de la population trans, qui sont étroitement corrélés aux appartenances sociales des individus. Si l'on a beaucoup évoqué la manière dont la médecine a participé à façonner les parcours trans, la population trans n'est pas passive dans la construction de ceux-ci. En se penchant sur les  les rapports entretenus au savoir, à l’institution et à l’autorité médicale, il a été possible de mettre en lumière et de comprendre les manières qu'ont les personnes trans de composer, confronter et, parfois, de transformer les institutions médicales.
 
-Et justement : proximité au terrain, 
+Toutefois, le tableau reste incomplet dans interroger les autres acteurs impliqués dans la construction de ces parcours, dont les prestataires de soin. Si le travail de mémoire a permis de rendre compte d'une hétérogénéité de pratiques de soin, suggérant l'effritement du standard de soin évoqué, ces pratiques sont, dans la littérature, insufissament problématisées selon les espaces dans lesquelles elles prennent place, selon les cadres disciplinaires et les caractéristiques sociodémographiques des soignants.
 
-Apport des sciences médicales : en étant moins extérieur au monde médical, cela a permis de mieux percevoir l'hétérogénéité des soignants et de se rendre compte de l'importance de la première ligne. Avoir une meilleure connaissance du terrain, des difficultés matérielles et des réalités organisationnelles. Comprendre que selon la structure et la spécialité, il peut y avoir des différences importantes.
+Or, la proximité au terrain permet de voir l'émergence de nouvelles infrastructures de soin, qui font intervenir de nouvelles disciplines dans les parcours de transition. Il est nécessaire de s'interroger sur les contraintes matérielles et les réalités organisationnelles propres à ces infrastructures, et de se pencher sur les différentes selon les cadres disciplinaires et les trajectoires des soignants. Il convient de rendre compte de cette hétérogénéité au sein du corps médical également.
 
-Intérêt d'aller dans =/ infrastructures, interroger =/ professions -> c'est absent de la littérature de SHS.
+Ce projet aspire donc à combler un double manque dans la littérature par une approche inédite qui envisage simultanément les expériences des personnes trans et celles des soignant·es au sein de différentes infrastructures de soin, dont certaines ont émergé récemment dans le paysage de soin belge francophone et n'ont encore jamais été étudiées.
 
-Processus d'interaction et négociation :
-Depuis une perspective interactionniste, j'envisage la transition médicale comme un processus qui fait l'objet de négociation entre prestataires de soin et personnes trans. Si l'on a beaucoup évoqué la manière dont la médecine a participé à façonner les parcours trans, la population trans n'est pas passive dans la construction de ceux-ci. Des travaux de sociologie de la santé, et notamment sur la santé trans, montrent que les parcours sont négociés, selon une pluralité de logique et de répertoires d'action. Dans mon mémoire, j'ai constaté que si les personnes trans ont une diversité de manières de se confronter, de composer, de transformer les institutions médicales, les pratiques, protocoles, normes médicales sont également diversifiés. 
-
-Et, pour accéder à un tableau plus complet de la manière dont se construisent les parcours, il a semblé important d'intégrer à la recherche prestataires de soin. Toutefois, il existe une absence de travaux qui opérationnalisent cela. De plus, l'hétérogénéité de pratique est insuffisament problématisée selon les cadres disciplinaires, les lieux de soin et les caractéristiques sociodémographiques des professionnels.
-
-Ce projet aspire à combler ce deuxième manque dans la littérature par une approche inédite qui envisage simultanément les expériences des personnes trans et celles des soignant·es au sein de différentes infrastructures de soin, dont certaines ont émergé récemment dans le paysage de soin belge francophone et n'ont encore jamais été étudiées.
-
-DONC : la transition médicale est étudiée comme un processus interactif, au sein duquel la profession médicale peut adopter une pluralité de rôles et de dispositions et, d’autre part, comme processus au sein duquel les patients peuvent participer activement à ce processus, selon des logiques également hétérogènes.
 :::
 
 ### Méthodologie
 
 * Un terrain en FWB
 
-* Une triangulation méthodologique : des entretiens semi-structurés avec des prestataires de soin et des personnes ayant initié un parcours de transition ; des observations dans différents espaces de soin ; observation de conférences scientifiques ; analyse d'un corpus de documents
-
-* 
+* Une triangulation méthodologique
+  * des entretiens semi-structurés avec des prestataires de soin ;
+  * des entretiens semi-structurés avec des personnes ayant initié un parcours de transition médicale ;
+  * des observations dans différents espaces de soin ;
+  * observation de conférences scientifiques ;
+  * analyse d'un corpus de documents.
+ 
 
 ::: {.notes}
 Qu'est-ce que je vais faire ?
 Pourquoi je le fais ?
+
+J'ai circonscrit un terrain en Belgique francophone.
+(1) la Belgique est à l’avance sur le plan des changements légaux entourant le parcours de transition et constitue en cela un laboratoire approprié pour étudier leurs répercussions sur le terrain des soins.
+(2) la FWB est moins présente que le nord du pays dans les instances internationales de production de connaissances et de standards de soin en santé trans, au contraire des soignants du nord du pays qui y participent activement. Ce différentiel entre le nord et le sud du pays implique un flou quant aux pratiques et aux savoirs dans les infrastructures de soin de FWB, que la recherche permettra d’éclairer.
+
+Triangulation méthodologique qui répond à plusieurs objectifs
+
+* Une analyse des recommandations médicales (qu’elles soient issues de sociétés savantes ou d’associations communautaires) permettra d’appréhender comment différents savoirs sont diffusés, assimilés, acceptés ou rejetés dans le contexte belge francophone.
+* L’observation de milieux d’interconnaissance tels que les conférences scientifiques permettra d’accéder aux « histoires publiques » des prestataires et de saisir comment, dans cet entre-soi, ils et elles apprennent à travailler avec la population trans.
+* Des entretiens semi-dirigés avec des professionnels issus de différentes disciplines médicales et paramédicales permettra  d'interroger leurs parcours de formation, la conception de leur rôle en médecine trans, les défis, contraintes et éventuelles résistances rencontrées ainsi que leur processus de prise de décision. Une attention sera portée aux caractéristiques des groupes étudiés, aux propriétés sociales des individus, ainsi qu’aux disciplines et à la hiérarchie médicosoignante.
+
+➡️ Ensemble, ces trois méthodologies permettront de comprendre les manières dont les soignant·es font sens du processus de transition médicale, cet axe explore le contexte épistémique dans lequel s’ancrent leurs pratiques, dans une articulation entre représentations et normes sociales, connaissances scientifiques et points de repère éthiques. 
+
+* Des entretiens semi-dirigés avec des personnes ayant initié un parcours de transition médicale. Cela permettra d’éclairer la question de l’accès au soin, des ressources et contraintes dans la construction des parcours et des répertoires d’actions des personnes trans, notamment appréhendés au prisme des rapports entretenus au savoir, à l’institution et à l’autorité médicale. Ici également, un point d'honneur sera mis à la variation démographique et contextuelle de l'échantillonnage, nécéssitant une diversification des lieux de recrutement. En effet, la proximité aux espaces militants constitue un critère important pour comprendre l’hétérogénéité de logiques chez les personnes trans et les rapports entretenus aux protocoles médicaux, ces éléments étant par ailleurs corrélés aux appartenances sociales des individus (Beaubatie, 2019). En outre, le sens de la transition, l’âge, la classe, le lieu de vie (rural/urbain) forgent des vulnérabilités spécifiques et impliquent un accès inégal à aux ressources matérielles dans la construction des parcours.
+
+* Des observations se dérouleront dans différents espaces de soin dont l'identification relèvera d'une cartographie établie dans le travail de mémoire, qui sera réactualisée à l'aide des entretiens. Cela permettra d'accéder plus directement aux interactions entre prestataires de soin et personnes trans et aux pratiques de soin.
+
 :::
 
 ## La formation Comp·a·s
