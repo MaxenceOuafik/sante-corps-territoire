@@ -248,7 +248,7 @@ Faut-il traiter les corps ou les âmes ?
 
 ➡️ Un standard de soin développé et disséminé comme compromis entre des approches pathologisantes divergentes 
 
-[@beaubatie2021; @bienaime2022; @shuster2021]
+[@beaubatie2021; @bienaime2022entre; @shuster2021trans]
 
 ::: {.notes}
 Dimension conflictuelle de la médecine trans selon l'ancrage disciplinaire.
@@ -318,11 +318,11 @@ Ces différents constats existent dans la littérature, nationale et internation
 ## Projet de thèse
 ### Point de départ
 
-* Une relation de soin atypique [@ashley2022; @clochec2023b]
+* Une relation de soin atypique [@ashley2022adolescent; @clochec2023apres]
 
-* Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; [@ashley2022; @bienaime2018; @clochec2023b]  ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués [@baleige2023]
+* Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; [@ashley2022adolescent; @bienaime2018quelle; @clochec2023apres]  ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués [@baleige2023]
 
-* La médecine trans comme terrain incertain [@shuster2021]
+* La médecine trans comme terrain incertain [@shuster2021trans]
 
 * *Dans ce contexte en profonde transformation, comment les négociations patient·es-soignant·es autour des parcours de transition se déroulent-elles ?*
 
