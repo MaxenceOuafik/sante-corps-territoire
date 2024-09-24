@@ -41,6 +41,12 @@ format:
 
 # Préambule
 
+::: {.notes}
+-   Santé trans au prisme de nos travaux passés et futur, communs et individuels
+-   L’intérêt d’une présentation commune est de pouvoir articuler ces travaux afin de proposer une réflexion commune sur la santé trans, au croisement de nos disciplines respectives\
+-   Par-delà, cela permet de montrer les apports que chaque discipline a pu apporter à l’autre et comment les pratiques peuvent être modifiées par ce genre de collaboration
+:::
+
 ## Présentation personnelle
 
 ::: columns
@@ -50,7 +56,7 @@ format:
 -   Masters en sociologie et en études de genre\
 -   Mémoire sur la construction des parcours de transition médicale des hommes trans dans le paysage de soin belge francophone\
 -   Assistant dans la faculté de Philosophie et Lettres ; éthique et humanités médicales\
--   Projet de thèse en sociologie sur la négociation autour des parcours de transition médicale entre prestataires de soin et personnes trans
+-   Projet de thèse en sociologie sur la médecine des transitions de genre
 :::
 
 ::: {.column width="50%"}
@@ -64,8 +70,7 @@ format:
 :::
 
 ::: {.notes}
--   L’intérêt d’une présentation commune est de pouvoir articuler nos travaux respectifs et communs afin de proposer une réflexion commune sur la santé trans, au croisement de nos disciplines respectives\
--   Par-delà, cela permet de montrer les apports que chaque discipline a pu apporter à l’autre et comment les pratiques peuvent être modifiées par ce genre de collaboration
+
 :::
 
 # Des points d’entrée différents mais des constats similaires
@@ -73,16 +78,24 @@ format:
 ## Contexte
 
 -   Réforme de la loi régulant les changements d’état-civil (2018 ; @servicepublicfederaldejustice2017)\
--   Retrait de l’ICD-11 (International Classification of Diseases)
+-   Retrait de l’ICD-11 (International Classification of Diseases) en 2019
 -   Une « réforme du traitement de la question trans » [@jaunait2020] : d'une catégorie médicale à une catégorie sociale
+-   Tension entre auto- et hétéro-définition du sujet 
+
 
 ::: {.notes}
+**Maxence**
 Montrer à quoi ressemble le paysage belge au moment de commencer nos travaux\
 Attention à déjà montrer l'encadrement médical autour des parcours trans - diagnostic - sinon la suite de la présentation est moins compréhensible.
 Loi trans : porte sur le changement d’état civil mais a un impact la place du médecin dans les parcours de transition, la relation soignant-patient, l’organisation des soins\
-Plus grande autonomie civile et corporelle des personnes trans
-On peut parler d'une plus large réforme du traitement de la question trans, qui, dans un processus de dépathologisation, devient moins une question médicale que sociale et politique. Ces changements - ICD-11, loi trans - marquent des étapes importantes vers une autonomie des personnes trans dans la gestion de leur parcours (Tomsej & Paternotte, 2021).
-+ consentement éclairé vs diagnostic ?
+Ces changements - ICD-11, loi trans - marquent des étapes importantes vers une plus grande autonomie des personnes trans dans la gestion de leur parcours, vers une plus grande autonomie civile et corporelle qui se manifeste dans le champ de la santé notamment.
+
+**Alix**
+
+On peut parler d'une plus large réforme du traitement de la question trans, qui, dans un processus de dépathologisation, devient moins une question médicale que sociale et politique. 
+Suite aux mobilisations des personnes et associations trans, on observe à une évolution des représentations autour des personnes trans, que l’on peut voir comme un conflit expertise duquel émerge la revendication de l’autodétermination et mène à une tension entre une hétéro-définition du sujet, à travers le diagnostic médical, et l’auto-définition du sujet, par les personnes trans elles-mêmes.
+Cette tension, ce conflit d'expertise, s'articule autour d'une question centrale qui est celle de l'autonomie des personnes trans, notamment dans la construction de leur parcours.
+
 
 :::
 
