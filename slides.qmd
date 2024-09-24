@@ -85,7 +85,7 @@ format:
 
 ::: {.notes}
 **Maxence**
-Montrer à quoi ressemble le paysage belge au moment de commencer nos travaux\
+Montrer à quoi ressemble le paysage belge au moment de commencer nos travaux.
 Attention à déjà montrer l'encadrement médical autour des parcours trans - diagnostic - sinon la suite de la présentation est moins compréhensible.
 Loi trans : porte sur le changement d’état civil mais a un impact la place du médecin dans les parcours de transition, la relation soignant-patient, l’organisation des soins\
 Ces changements - ICD-11, loi trans - marquent des étapes importantes vers une plus grande autonomie des personnes trans dans la gestion de leur parcours, vers une plus grande autonomie civile et corporelle qui se manifeste dans le champ de la santé notamment.
@@ -96,9 +96,9 @@ On peut parler d'une plus large réforme du traitement de la question trans, qui
 
 Cette évolution, elle est notamment due aux mobilisations des personnes et associations trans, qui mènent à une évolution des représentations autour des personnes trans.
 
-Au centre de ces luttes, avec la revendication d'autodétermination, on retrouve un conflit d'expertise duquel émerge la revendication de l’autodétermination et mène à une tension entre une hétéro-définition du sujet, à travers le diagnostic médical, et l’auto-définition du sujet, par les personnes trans elles-mêmes.
+Au centre de ces luttes, on retrouve une tension entre une hétéro-définition du sujet, à travers le diagnostic médical, et l’auto-définition du sujet, par les personnes trans elles-mêmes.
 
-Cette tension, ce conflit d'expertise, s'articule autour d'une question centrale qui est celle de l'autonomie des personnes trans, notamment dans la construction de leur parcours.
+Cette tension s'articule autour d'une question centrale qui est celle de l'autonomie des personnes trans, notamment dans la construction de leur parcours.
 
 :::
 
@@ -121,8 +121,9 @@ TFE : 1/2 patientèle qui ont changé prénom et 1/3 état civil. Cela n'aurait 
 
 ::: {.notes}
 L'inscription du principe d'autodétermination dans la loi belge entraine des transformations de la manière dont s’ordonnent les parcours (juridiquement, médicalement) : nouveaux espaces, nouvelles disciplines, nouveaux points d'entrée, pas de "parcours-type".
-En effet, nous sommes face à des transformations qui remettent en question l'encadrement médical rigide des parcours de transition.
+
 Aujourd'hui, comment se déroulent les parcours de transition médicale dans un contexte belge francophone ?
+
 Absence de travaux SHS sur le sujet
 :::
 
@@ -251,15 +252,18 @@ Faut-il traiter les corps ou les âmes ?
 [@beaubatie2021; @bienaime2022; @shuster2021]
 
 ::: {.notes}
-Dimension conflictuelle de la médecine trans selon l'ancrage disciplinaire.
-L’endocrinologie/sexologie qui voit le fait d'être trans comme un désordre de nature biologique à traiter à l’aide d’intervention hormonale et chirurgicale. 
-La psychiatrie voit le transsexualisme comme un trouble grave de la personnalité, à traiter par psychothérapie
-Donc, comment on résout le trouble ? S’agit-il de traiter les corps ou les âmes ?
-Besoin d'un consensus pour légitimité de la médecine trans, pour la consolider (médecine trans était fort questionnée)
-Face à cette tension s’opère un compromis : **« les trans’ auront accès aux modifications corporelles à la condition d’une évaluation psychiatrique »**.
+**La médecine trans s'est construite sur un conflit disciplinaire.**
 
-Cela s’officialise par la publication de standards de soin internationaux dans les années 70. Les années 70-90 – constituent un moment d’élaboration d’un dispositif hospitalier de changement de sexe.
-Des cliniques de genre voient le jour, organisées selon le triptyque disciplinaire sychiatrie-endocrinologie-chirurgie, au sein desquelles les psychiatres détiennent une place centrale, puisqu’il leur revient d’autoriser, ou non, l’accès aux traitements.
+* L’endocrinologie/sexologie qui voit le fait d'être trans comme un désordre de nature biologique à traiter à l’aide d’intervention hormonale et chirurgicale. 
+* La psychiatrie voit le transsexualisme comme un trouble grave de la personnalité, à traiter par psychothérapie
+
+*Donc, comment on résout le trouble ? S’agit-il de traiter les corps ou les âmes ?*
+
+➡️ Face à cette tension s’opère un compromis : **« les trans’ auront accès aux modifications corporelles à la condition d’une évaluation psychiatrique »**.
+
+➡️ Cela s’officialise par la publication de standards de soin internationaux dans les années 70. Les années 70-90 – constituent un moment d’élaboration d’un dispositif hospitalier de changement de sexe.
+
+➡️ Des cliniques de genre voient le jour, organisées selon le triptyque disciplinaire sychiatrie-endocrinologie-chirurgie, au sein desquelles les psychiatres détiennent une place centrale, puisqu’il leur revient d’autoriser, ou non, l’accès aux traitements.
 
 
 :::
@@ -354,11 +358,19 @@ La littérature de SHS sur la transition médicale envisage plus communément so
 
 J'entends appréhender ces deux groupes dans leur interdépendance ET dans leur hétérogénéité.
 
-Du coté des personnes trans, ma recherche de mémoire a permis de mettre en avant la pluralité de manière dont les personnes construisent leurs parcours, qui sont quant à eux très hétérogènes. Elle permet de montrer les rapports diversifiés à l’institution et au savoir médical ainsi qu’aux groupes de pairs et au militantisme, façonnant des manières plurielles d’appréhender et de se confronter aux différents cadres dans lesquels ils évoluent. En mettant à distance des représentations de personnes trans comme soit soumises, soit défiantes, face aux protocoles médicaux, de patients qui seraient soit passifs, soit actifs, cette partie met en lumière l’agentivité des participants face à différents manquements institutionnels, les marges de négociation qu’ils trouvent et les manières plurielles de bricoler de nouvelles configurations de parcours, selon des logiques qui leur sont propres.
+Du coté des personnes trans, ma recherche de mémoire a permis de mettre en avant la pluralité de manière dont les personnes construisent leurs parcours. Cette recherche met en lumière l’agentivité des participants face à différents manquements institutionnels, les marges de négociation qu’ils trouvent et les manières plurielles de bricoler de nouvelles configurations de parcours, selon des logiques qui leur sont propres.
 
 Toutefois, le tableau restait incomplet sans envisager les prestataires de soin, acteurs des récits dont les expériences demeurraient pourtant innaccessibles.
 
-La littérature, qui tend à moins s'intéresser aux médecins, n'offre pas d'analyse aussi nuancée des expériences des médecins, et ne permet pas d'appréhender cette population dans son hétérogénéité. Or, une proximité au terrain médical ne peut qu'appuyer la pertinence de problématiser les pratiques au prisme des espaces dans lesquelles elles prennent place, les cadres disciplinaires dans lesquelles elles s'ancrent, mais aussi de les envisager selon le positionnement social des différents soignants impliqués dans les parcours. Cela est d'autant plus important dans un contexte de multiplication des infrastructures de soin, qui font intervenir une diversité de nouvelles disciplines dans les parcours, qu'elles soient médicales ou paramédicales. Il est nécessaire de s'interroger sur les contraintes matérielles et les réalités organisationnelles propres à ces infrastructures.
+La littérature n'offre pas d'analyse aussi nuancée des expériences des médecins, et ne permet pas d'appréhender cette population dans son hétérogénéité.
+
+Or, une proximité au terrain médical, qui passe notamment par des collaborations avec des acteurs de terrain, montre la pertinence de problématiser les pratiques au prisme des espaces dans lesquelles elles prennent place, les cadres disciplinaires dans lesquelles elles s'ancrent, mais aussi de les envisager selon le positionnement social des différents soignants impliqués dans les parcours. 
+* Quelles sont les différences de point de vue entre médecin généraliste et médecin spécialiste ?
+* En quoi le lieu d’exercice, et la culture y afférent, modulent-ils les perspectives des professionnel·les ?
+* Quelles différences retrouve-t-on entre les représentations des professions médicales et paramédicales ?
+* Comment ces différences de représentations se traduisent-elles dans les parcours de transition ?
+
+Ces questions sont d'autant plus importantes dans un contexte de multiplication des infrastructures de soin. Il est également nécessaire de s'interroger sur les contraintes matérielles et les réalités organisationnelles propres à ces infrastructures.
 
 Ce projet aspire donc à combler un double manque dans la littérature par une approche inédite qui envisage simultanément les expériences des personnes trans et celles des soignant·es, deux groupes à appréhender dans leur hétérogénéité, au sein de différentes infrastructures de soin, dont certaines ont émergé récemment dans le paysage de soin belge francophone et n'ont encore jamais été étudiées.
 
@@ -377,12 +389,6 @@ Ce projet aspire donc à combler un double manque dans la littérature par une a
  
 
 ::: {.notes}
-Qu'est-ce que je vais faire ?
-Pourquoi je le fais ?
-
-J'ai circonscrit un terrain en Belgique francophone.
-(1) la Belgique est à l’avance sur le plan des changements légaux entourant le parcours de transition et constitue en cela un laboratoire approprié pour étudier leurs répercussions sur le terrain des soins.
-(2) la FWB est moins présente que le nord du pays dans les instances internationales de production de connaissances et de standards de soin en santé trans. Ce différentiel entre le nord et le sud du pays implique un flou quant aux pratiques et aux savoirs dans les infrastructures de soin de FWB, que la recherche permettra d’éclairer.
 
 Triangulation méthodologique qui répond à plusieurs objectifs
 
@@ -392,9 +398,9 @@ Triangulation méthodologique qui répond à plusieurs objectifs
 
 ➡️ Ensemble, ces trois méthodologies permettront d'éclairer le contexte épistémique dans lequel s’ancrent leurs pratiques, dans une articulation entre représentations et normes sociales, connaissances scientifiques et points de repère éthiques. 
 
-* Des entretiens semi-dirigés avec des personnes ayant initié un parcours de transition médicale. Cela permettra d’éclairer la question de l’accès au soin, des ressources et contraintes dans la construction des parcours et des répertoires d’actions des personnes trans, notamment appréhendés au prisme des rapports entretenus au savoir, à l’institution et à l’autorité médicale. Ici également, un point d'honneur sera mis à la variation démographique et contextuelle de l'échantillonnage, nécéssitant une diversification des lieux de recrutement. En outre, le sens de la transition, l’âge, la classe, le lieu de vie (rural/urbain) forgent des vulnérabilités spécifiques et impliquent un accès inégal à aux ressources matérielles dans la construction des parcours, et sont à mettre en lien avec le rapport au savoir et à l'institution médicale.
+* Des entretiens semi-dirigés avec des personnes ayant initié un parcours de transition médicale. Cela permettra d’éclairer la question de l’accès au soin, des ressources et contraintes dans la construction des parcours et des répertoires d’actions des personnes trans, notamment appréhendés au prisme des rapports entretenus au savoir, à l’institution et à l’autorité médicale, comme j'ai pu le faire dans ma précédente recherche de mémoire. Ici également, un point d'honneur sera mis à la variation démographique et contextuelle de l'échantillonnage.
 
-* Des observations se dérouleront dans différents espaces de soin dont l'identification relèvera d'une cartographie établie dans le travail de mémoire, qui sera réactualisée à l'aide des entretiens. Cela permettra d'accéder plus directement aux interactions entre prestataires de soin et personnes trans et aux pratiques de soin.
+* Des observations se dérouleront dans différents espaces de soin, ce qui permettra d'accéder plus directement aux interactions entre prestataires de soin et personnes trans.
 
 :::
 
