@@ -1,6 +1,6 @@
 ---
 title: "Titre de la présentation"  
-subtitle: "La santé : du corps au territoire"  
+subtitle: "La santé : du corps au territoire : articuler éthique, sciences et humanités médicales"  
 date: 09-25-2024  
 date-format: "DD/MM/YYYY"  
 author: [Alix Fournier, Maxence Ouafik]  
