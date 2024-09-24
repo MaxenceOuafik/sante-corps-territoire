@@ -314,7 +314,7 @@ Ces différents constats existent dans la littérature, nationale et internation
 ## Projet de thèse
 ### Point de départ
 
-* Une relation de soin atypique
+* Une relation de soin atypique 
 
 * Double transformation : (1) redéfinition des rôles au sein de la relation entre patient·es et soignant·es ; (2) « une réforme de l’organisation des systèmes de soin » se traduisant par une diversification des modalités de parcours ainsi que des disciplines et espaces de soin qui y sont impliqués
 
@@ -323,7 +323,15 @@ Ces différents constats existent dans la littérature, nationale et internation
 * Dans ce contexte en transformation, comment se déroulent les négociations autour des parcours de transition entre prestataires de soin et personnes trans ?
 
 ::: {.notes}
-Comme on l'a dit : contexte en profonde mutation. Or, cette mutation de contexte transforme la relation de soin. **Relation de soin atypique**.
+Dans la médecine des transitions de genre, la relation de soin n'est pas une relation de soin clasique, dans laquelle les médecins savent et les patient·es suivent. On peut faire un parallèle avec les questions de contraception et d'avortement, où les rôles habituels sont renversés : les patient·es disent savoir de quoi ils et elles ont besoin, et espèrent que les médecins suivront.
+
+On a pu voir que le cadre historique d'encadrement médical des parcours trans connait des bouleversements, liés à une réforme du traitement de la question trans. Comme on a pu le voir, et comme je le constate dans mon premier mémoire, ces changements épistémiques viennent ébranler les espaces, savoirs, disciplines, protocoles, normes et représentations de ce cadre historique de prise en charge médicale.
+
+ dont le délitement participe à l’émergence d’un régime d’incertitude en médecine trans (Shuster, 2021).
+
+Comme nous 
+
+Or, cette mutation de contexte transforme la relation de soin. **Relation de soin atypique**.
 
 La tension entre le rôle historique d’évaluateur et de gardien assigné aux médecins et la récente place laissée à l’autonomie dans la construction des parcours constitue le travail en médecine trans comme un terrain incertain.
 :::
