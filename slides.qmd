@@ -122,7 +122,7 @@ Cette tension s'articule autour d'une question centrale qui est celle de l'auton
 
 *   Comment se déroulent les parcours de transition médicale dans un contexte en profonde transformation ?
 *   Une absence dans la littérature SHS belge
-*   Une approche matérialiste 
+*   Une approche matérialiste [@beaubatie2021; @clochec2021]
 
 
 ::: {.notes}
@@ -132,8 +132,8 @@ L'inscription du principe d'autodétermination dans la loi belge entraine des tr
 
 * Absence de travaux SHS sur le sujet
 
-* Depuis une approche matérialiste, qui permet d'approcher le fait d'être trans, ou la transitude, non pas comme un état psychique, mais à partir d'un processus observable : la transition
-*   La transition est comprise comme un processus social, ou de mobilité sociale, qui peut être physique, et comporte des aspects relationnels, juridiques, corporels
+*   Depuis une approche matérialiste, qui permet d'approcher le fait d'être trans, ou la transitude, non pas comme un état psychique, qui serait très individuel, mais à partir d'un processus observable : la transition
+*   Et la transition est comprise comme un processus social, ou de mobilité sociale, qui peut être physique, et comporte des aspects relationnels, juridiques, corporels
 *  Cette approche matérialiste implique de déplacer le regard vers les conditions matérielles du déroulement des parcours, vers les processus et moyens de déplacement entre catégories de sexe (comprises comme sociales et non biologiques)
 *  Ici : penser l'accès à la transition médicale
 
