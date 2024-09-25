@@ -175,9 +175,10 @@ Or :
 
 :::
 
-------------------------------------------------------------------------
+### Timothée (1)
 
-::: {.callout-note icon="false"}
+
+::: {#title-slide .center}
 \[J\]’ai vraiment galéré à trouver une endocrinologue qui veuille bien me prendre. \[…\] Et en fait, j’ai appelé, je pense, sans exagération, une vingtaine d’endocrinologues, et à chaque fois, je précisais pourquoi je venais, et ils m’ont tous refusé \[...\] en disant : « Non, moi je ne fais pas ça ».
 
 \[...\]\[l’hôpital\] a été vraiment violent dans la réponse. \[...\] par mail, on m’a dit : « Non, écoutez, quelqu’un est déjà venu dans votre cas et on lui a dit directement de rentrer chez lui, parce qu’on fait pas ça chez nous ».
@@ -189,11 +190,19 @@ Cette organisation entraîne des refus de soin de la part de soignants des deux 
 :::
 ------------------------------------------------------------------------
 
+### Timothée (2)
 
-::: {.callout-note icon="false"}
-Elle \[l’endocrinologue\] ma dit : « Ah d’accord, mais vous savez, ça existe les équipes spécialisées ». Elle voulait direct refiler la patate chaude. J’ai dit : « Oui, je sais très bien, mais écoutez, j’habite à [...], je travaille, je peux pas tout le temps me rendre sur Liège, donc c’était plus simple de vous voir ». « Ah mais parce que moi, vraiment, je ne fais pas ça ». J’ai dû forcer un petit peu le trait parce qu’elle voulait pas me prendre en charge en fait.
 
-J’avais l’impression d’avoir genre une maladie rare où on pouvait juste me référer à un centre qui connaissait. »
+::: {#title-slide .center}
+Elle \[l’endocrinologue\] ma dit : « Ah d’accord, mais vous savez, ça existe les équipes spécialisées ». Elle voulait direct refiler la patate chaude. 
+
+J’ai dit : « Oui, je sais très bien, mais écoutez, j’habite à [...], je travaille, je peux pas tout le temps me rendre sur Liège, donc c’était plus simple de vous voir ». 
+
+« Ah mais parce que moi, vraiment, je ne fais pas ça ». 
+
+J’ai dû forcer un petit peu le trait parce qu’elle voulait pas me prendre en charge en fait.
+
+J’avais l’impression d’avoir genre une maladie rare où on pouvait juste me référer à un centre qui connaissait.
 :::
 
 ::: {.notes}
