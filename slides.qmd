@@ -1,5 +1,5 @@
 ---
-title: "Perspectives croisées sur la médecine des transitions"  
+title: "Etudier les pratiques, former les praticien·ne·s - Perspectives transdisciplinaires sur la santé trans"  
 subtitle: "La santé, du corps au territoire : articuler éthique, sciences et humanités médicales"  
 date: 09-25-2024  
 date-format: "DD/MM/YYYY"  
@@ -15,7 +15,7 @@ format:
     smaller: true  
     show-slide-number: all  
     center-title-slide: true  
-    footer: "Titre de la présentation"  
+    footer: "La santé, du corps au territoire"  
     multiplex: true  
     transition: slide  
     progress: true  
@@ -196,7 +196,6 @@ Or :
 Verbatim 1:
 Cette organisation entraîne des refus de soin de la part de soignants des deux premières lignes, qui ne se sentent pas compétents et préfèrent référer aux équipes officielles. On peut constater cela dans le parcours de Timothée, qui était en recherche d'endocrinologue pour suivre son THAG déjà initié depuis plusieurs années.
 :::
-------------------------------------------------------------------------
 
 ### Timothée (2)
 
@@ -223,19 +222,26 @@ Cela s’inscrit d’une vision des parcours de transition comme étant l’apan
 :::: {.columns}
 
 ::: {.column}
-* En temps normal, l'hospital universitaire gère 0,1% des besoins de santé d'une population
+* En temps normal, l'hospital universitaire gère 0,1%-0,5% des besoins de santé d'une population
 * Pour la population trans, ce morceau ultra-spécialisé de l'offre de soin est vu comme le défaut
 :::
 
 ::: {.column}
-![Le carré de White](./white.jpg){#fig-white}
+![Le carré de White, tiré de @laporte2024french](./white.png){#fig-white}
 :::
 
 ::::
 
 ::: {.notes}
 Impression d'avoir une maladie rare : impression justifiée. C'est normalement comme ça que sont structurés les soins.
-Expliquer carré de white.
+
+* Sur 1000 individus, chaque mois, près de 50% bénéficient d'un traitement ou d'une médication
+* 25% voient leur MG
+* 10% vont en deuxième ligne de soin
+* 3% sont hospitalisés
+* 0,5% sont hospitalisés en centre universitaire
+
+➡️ les MG sont les prestataires les plus consultés et les soins tertiaires sont rarement nécessaires
 :::
 
 # Contexte socio-historique de l'organisation des soins trans
@@ -296,7 +302,6 @@ Faut-il traiter les corps ou les âmes ?
 ➡️ Cela s’officialise par la publication de standards de soin internationaux dans les années 70. Les années 70-90 – constituent un moment d’élaboration d’un dispositif hospitalier de changement de sexe.
 
 ➡️ Des cliniques de genre voient le jour, organisées selon le triptyque disciplinaire sychiatrie-endocrinologie-chirurgie, au sein desquelles les psychiatres détiennent une place centrale, puisqu’il leur revient d’autoriser, ou non, l’accès aux traitements.
-
 
 :::
 
