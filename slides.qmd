@@ -1,5 +1,5 @@
 ---
-title: "Titre de la présentation"  
+title: "Perspectives croisées sur la médecine des transitions"  
 subtitle: "La santé, du corps au territoire : articuler éthique, sciences et humanités médicales"  
 date: 09-25-2024  
 date-format: "DD/MM/YYYY"  
@@ -133,7 +133,7 @@ Absence de travaux SHS sur le sujet
 ## Un désert médical
 
 -   Manque de médecins [@baleige2023; @kearns2021; @lee2022; @tsjoen2022]
--   Délais longs et déplacements importants ; voir @fig-map et @fig-duration
+-   Délais longs et déplacements importants ; voir @fig-map
 
 ::: {.notes}
 Un premier constat commun porte sur le manque de médecins qui fournissent des soins liés à la transition médicale. Les participants de la recherche de mémoire évoquent la difficulté à trouver des médecins.\
@@ -143,11 +143,20 @@ Ces constats se retrouvent également dans la littérature scientifique, belge e
 
 ------------------------------------------------------------------------
 
-Carte
+```{r source_scripts}
+#| include: false
 
-------------------------------------------------------------------------
+source("./scripts/import_data.R", encoding = "UTF-8")
+source("./scripts/create_patients_map.R", encoding = "UTF-8")
+```
 
-Trajets
+```{r patients_map}
+#| label: fig-map
+#| fig-cap: "Mobilité géographique des patients transgenres"
+
+patients_map
+```
+
 
 ## La ségrégation des soins
 
