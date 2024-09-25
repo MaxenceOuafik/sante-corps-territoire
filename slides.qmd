@@ -411,9 +411,13 @@ Toutefois, le tableau restait incomplet sans envisager les prestataires de soin,
 La littérature n'offre pas d'analyse aussi nuancée des expériences des médecins, et ne permet pas d'appréhender cette population dans son hétérogénéité.
 
 Or, une proximité au terrain médical, qui passe notamment par des collaborations avec des acteurs de terrain, montre la pertinence de problématiser les pratiques au prisme des espaces dans lesquelles elles prennent place, les cadres disciplinaires dans lesquelles elles s'ancrent, mais aussi de les envisager selon le positionnement social des différents soignants impliqués dans les parcours. 
+
 * Quelles sont les différences de point de vue entre médecin généraliste et médecin spécialiste ?
+
 * En quoi le lieu d’exercice, et la culture y afférent, modulent-ils les perspectives des professionnel·les ?
+
 * Quelles différences retrouve-t-on entre les représentations des professions médicales et paramédicales ?
+
 * Comment ces différences de représentations se traduisent-elles dans les parcours de transition ?
 
 Ces questions sont d'autant plus importantes dans un contexte de multiplication des infrastructures de soin. Il est également nécessaire de s'interroger sur les contraintes matérielles et les réalités organisationnelles propres à ces infrastructures.
