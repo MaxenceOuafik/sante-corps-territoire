@@ -30,7 +30,7 @@ patients_map <- be_merged |>
     geom_sf(aes(fill = count), color = "#B3BABC") +
     coord_sf(datum = NA) +
     labs(title = "Mobilité géographique des patients transgenres",
-         subtitle = "Patients vus entre le 01/01/22 et le 08/02/23 dans le cadre de leur THAG") +
+         subtitle = "Patients vus en consultation dans le cadre de leur THAG (N = 207)") +
     theme_patient_map + 
     theme(plot.title = element_text(color = "#138B9E",
                                     size = 14)) +

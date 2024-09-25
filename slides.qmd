@@ -24,7 +24,7 @@ format:
     execute:  
       echo: false  
       warning: false  
-      cache: true  
+      cache: false  
     fig-align: center  
     fig-responsive: false  
     fig-format: svg  
@@ -145,7 +145,6 @@ Ces constats se retrouvent également dans la littérature scientifique, belge e
 
 ```{r source_scripts}
 #| include: false
-
 source("./scripts/import_data.R", encoding = "UTF-8")
 source("./scripts/create_patients_map.R", encoding = "UTF-8")
 ```
