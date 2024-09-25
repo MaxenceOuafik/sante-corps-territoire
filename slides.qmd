@@ -315,8 +315,10 @@ Notons que ces exigences médicales sont étroitement entrelacées avec des norm
 Pour les femmes trans, cela impliquait une l'adoption d'un certain type de féminité, s'inscrire dans des standards de beauté, se trouver un mari et s’occuper du foyer, tandis que les hommes trans qui doivent trouver un travail stable et soutenir leur femme.
 
 Les attentes de l’établissement médical esquissait également une trajectoire de transition typique.
-1. L'obtention d'un diagnostic, qui était fondé sur des critères empreints de normes de genre et de sexualité et impliquait une identification trans typique : s'inscrire clairement dans une catégorie d'homme ou de femme, et ce depuis l'enfance, avec des marqueurs clairs dans le choix des jeux, des vêtements ; montrer un profond rejet et dégout du corps, impliquant possiblement une absence de sexualité ; montrer un désir uniquement hétérosexuel.
-2. L'obtention mène ensuite à la réalisation de l’ensemble des interventions médicales visant à conformer les corps aux normes de la catégorie de sexe de destination.
+1. L'obtention d'un diagnostic, qui était fondé sur une série de critères empreints de normes de genre et de sexualité : s'inscrire clairement dans une catégorie d'homme ou de femme, et ce depuis l'enfance, avec des marqueurs clairs dans le choix des jeux, des vêtements ; montrer un profond rejet et dégout du corps, impliquant possiblement une absence de sexualité ; montrer un désir uniquement hétérosexuel.
+➡️ Psychiatrie fige une manière de se dire trans, une identification trans typique
+2. L'obtention mène ensuite à la réalisation d'un ensemble d'interventions médicales
+➡️ Endocrinologie et chirurgie mettent les corps en conformité aux normes de la catégorie de sexe de destination
 
 **Cela était renforcé par le champ juridique** comme on a pu le voir avec la loi belge qui, jusqu'en 2018, conditionnait l'accès au changement d’état civil par cette mise en conformité des corps, qui passait notamment par la stérilisation dans une logique d’irréversibilité du changement de sexe, et l'impossibilité pour les personnes trans d'avoir des enfants biologiques.
 
@@ -354,7 +356,7 @@ Ces différents constats existent dans la littérature, nationale et internation
 2. Formation à destination des médecins généralistes
 
 ## Projet de thèse
-### Point de départ
+### La médecine trans en profonde transformation
 
 * Une relation de soin atypique [@ashley2022adolescent; @clochec2023apres]
 
