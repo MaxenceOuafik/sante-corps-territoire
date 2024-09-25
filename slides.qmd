@@ -98,7 +98,8 @@ format:
 
 On peut parler d'une plus large réforme du traitement de la question trans, qui, dans un processus de dépathologisation, devient moins une question médicale que sociale et politique.
 
-Cette évolution, elle est notamment due aux mobilisations des personnes et associations trans, qui mènent à une évolution des représentations autour des personnes trans.
+Cette évolution, elle est notamment due aux mouvements trans (militants, associatifs, académiques, et parfois un peu des trois), qui mènent à une évolution des représentations autour des personnes trans, et plus largement à un changement de paradigme, au travers de la revendication d'autodétermination.
+
 
 Au centre de ces luttes, on retrouve une tension entre une hétéro-définition du sujet, à travers le diagnostic médical, et l’auto-définition du sujet, par les personnes trans elles-mêmes.
 
@@ -119,15 +120,23 @@ Cette tension s'articule autour d'une question centrale qui est celle de l'auton
 :::
 ## Le point d’entrée sociologique
 
--   Comment se déroulent les parcours de transition médicale dans un contexte en profonde transformation ?
+*   Comment se déroulent les parcours de transition médicale dans un contexte en profonde transformation ?
+*   Une absence dans la littérature SHS belge
+*   Une approche matérialiste 
 
 
 ::: {.notes}
 L'inscription du principe d'autodétermination dans la loi belge entraine des transformations de la manière dont s’ordonnent les parcours (juridiquement, médicalement) : nouveaux espaces, nouvelles disciplines, nouveaux points d'entrée, pas de "parcours-type".
 
-Aujourd'hui, comment se déroulent les parcours de transition médicale dans un contexte belge francophone ?
+*Aujourd'hui, comment se déroulent les parcours de transition médicale dans un contexte belge francophone ?*
 
-Absence de travaux SHS sur le sujet
+* Absence de travaux SHS sur le sujet
+
+* Depuis une approche matérialiste, qui permet d'approcher le fait d'être trans, ou la transitude, non pas comme un état psychique, mais à partir d'un processus observable : la transition
+*   La transition est comprise comme un processus social, ou de mobilité sociale, qui peut être physique, et comporte des aspects relationnels, juridiques, corporels
+*  Cette approche matérialiste implique de déplacer le regard vers les conditions matérielles du déroulement des parcours, vers les processus et moyens de déplacement entre catégories de sexe (comprises comme sociales et non biologiques)
+*  Ici : penser l'accès à la transition médicale
+
 :::
 
 ## Un désert médical
@@ -303,9 +312,11 @@ Dans ce dispositif, les personnes trans sont perçues comme peu fiables, et les 
 
 Notons que ces exigences médicales sont étroitement entrelacées avec des normes sociales, plus spécifiquement de genre et de sexualité. Pour prouver leur crédibilité, les personnes trans devaient montrer une  conformité aux rôles de genre traditionnels (par ex la profession) ainsi qu'à certaines normes corporelles et montrer un désir hétérosexuel.
 
-Pour les femmes trans, cela impliquait une l'adoption d'une hyper-fémininité, de trouver un mari et s’occuper du foyer, tandis que les hommes trans qui doivent trouver un travail stable et soutenir leur femme.
+Pour les femmes trans, cela impliquait une l'adoption d'un certain type de féminité, s'inscrire dans des standards de beauté, se trouver un mari et s’occuper du foyer, tandis que les hommes trans qui doivent trouver un travail stable et soutenir leur femme.
 
-Les attentes de l’établissement médical esquissait également une trajectoire trans typique : premièrement, l'obtention d'un diagnostic, qui était fondé sur des critères empreints de normes de genre et de sexualité. L'obtention mène ensuite à la réalisation de l’ensemble des interventions médicales visant à conformer les corps aux normes de la catégorie de sexe de destination.
+Les attentes de l’établissement médical esquissait également une trajectoire de transition typique.
+1. L'obtention d'un diagnostic, qui était fondé sur des critères empreints de normes de genre et de sexualité et impliquait une identification trans typique : s'inscrire clairement dans une catégorie d'homme ou de femme, et ce depuis l'enfance, avec des marqueurs clairs dans le choix des jeux, des vêtements ; montrer un profond rejet et dégout du corps, impliquant possiblement une absence de sexualité ; montrer un désir uniquement hétérosexuel.
+2. L'obtention mène ensuite à la réalisation de l’ensemble des interventions médicales visant à conformer les corps aux normes de la catégorie de sexe de destination.
 
 **Cela était renforcé par le champ juridique** comme on a pu le voir avec la loi belge qui, jusqu'en 2018, conditionnait l'accès au changement d’état civil par cette mise en conformité des corps, qui passait notamment par la stérilisation dans une logique d’irréversibilité du changement de sexe, et l'impossibilité pour les personnes trans d'avoir des enfants biologiques.
 
